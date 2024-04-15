@@ -3,7 +3,6 @@
                                    
 console.log("hello world")
                                    
-console.log("hello world")
+console.log("hello world2")
 
-let PASSWORD="jdkd";
-let API_KEY = "jhbjgdgjbjbj"
+let API_KEY = "DLFJKAFKANFNAKNGKNDSKJGK";
